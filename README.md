@@ -38,7 +38,7 @@ while True:
 ```
 ## OUTPUT
 
-![alt text[[Screenshot 2025-03-06 051220](https://github.com/user-attachments/assets/daf5abcc-da07-4f4c-bd96-59dcefa240c0)
+![alt text][Screenshot 2025-03-06 051220](https://github.com/user-attachments/assets/daf5abcc-da07-4f4c-bd96-59dcefa240c0)
 ![alt text][Screenshot 2025-03-06 051207](https://github.com/user-attachments/assets/488f64ea-3256-4a14-89ef-66bdf9bec18d)
 
 
